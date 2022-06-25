@@ -1,10 +1,7 @@
 # ShipGame
 
-This program was my final project for **CS 162 - Introduction to Programming
-II** at Oregon State University. ShipGame is a Battleship-like game
-for two players.
-
-## Program Description
+ShipGame is a Battleship-like game for two players. This code provides
+a backend for the game written in Python.
 
 Each player has a 10x10 grid on which they place their ships. On their
 turn, the player fires a torpedo at a square on their opponents grid.
